@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+
+print("Hello world")
+X = 3
+Y = "John"
+print(type(X))
+print(type(Y))
+
