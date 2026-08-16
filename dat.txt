@@ -1,0 +1,10 @@
+total 32
+drwxrwxrwx+ 3 codespace root      4096 Aug 11 17:25 .
+drwxr-xrwx+ 5 codespace root      4096 Aug 10 15:37 ..
+drwxrwxrwx+ 8 codespace root      4096 Aug 10 15:38 .git
+-rw-rw-rw-  1 codespace root         1 Aug 10 15:37 README.md
+-rw-rw-rw-  1 codespace codespace    0 Aug 11 17:25 dat.txt
+-rw-rw-rw-  1 codespace codespace  195 Aug 11 17:18 piton.py
+-rw-rw-rw-  1 codespace root        90 Aug 10 15:37 py1.py3_750c085b4f11f3ea39b175956ad2d6f4.bin
+-rw-rw-rw-  1 codespace codespace  330 Aug 10 15:38 tekst.txt
+-rw-rw-rw-  1 codespace root        80 Aug 10 15:37 test.c
